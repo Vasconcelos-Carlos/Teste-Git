@@ -26,7 +26,9 @@ comando:
 * "git reset --hard"
 ----------------------------------------
 GitHub 
+
 * "git push origin master" para subir o arquivo commitado para o github
+* "git clone <ssh or https> nome da pasta que sera criada" para clonar o repositorio 
 ----------------------------------------
 comando para o editor de texto
 
