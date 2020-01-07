@@ -25,11 +25,14 @@ comando:
 * "git reset --mixed"
 * "git reset --hard"
 ----------------------------------------
+GitHub 
+* "git push origin master" para subir o arquivo commitado para o github
+----------------------------------------
 comando para o editor de texto
 
 vim (nome do arquivo) para criar um novo arquivo ou abrir um ja existente
 "i" para iniciar a ediçao
 "esc" + ":wq" para salvar
 ----------------------------------------
-dasd45
+
 
