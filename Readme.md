@@ -8,12 +8,12 @@ comando:
 * "git init" criar um repositorio GIT
 * "git status" checando os estados dos arquivos no repositorio 
 * "git add <nome do arquivo>" adicionar arquivo 
-* "git add. " adicionar todos os arquivos 
+* "git add . " adicionar todos os arquivos 
 * "git commit -m "comentario" " criar um commit 
 * "git commit -am "comentario" " commita todos arquivos modificados 
 ----------------------------------------
 * "git log" informaçoes do commit
-* "git log --author="nome" " filtra informacoes pelo nome do autor
+* "git log --author=<nome> " filtra informacoes pelo nome do autor
 * "git short log" informaçoes de forma reduzida(simplificada) 
 * "git show <hash>" pesquisa pela hash do commit
 ----------------------------------------
@@ -44,4 +44,4 @@ vim (nome do arquivo) para criar um novo arquivo ou abrir um ja existente
 "esc" + ":wq" para salvar
 ----------------------------------------
 
-sdashvdasbdhashjdsahasdj
+
