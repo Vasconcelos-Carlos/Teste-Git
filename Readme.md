@@ -30,6 +30,13 @@ GitHub
 * "git push origin master" para subir o arquivo commitado para o github
 * "git clone <ssh or https> nome da pasta que sera criada" para clonar o repositorio 
 ----------------------------------------
+BRANCH
+* "git checkout -b <nome da branch>" cria uma BRANCH
+* "git branch" lista as branchs
+* "git checkout <nome da branch ja existente>" troca de branch
+* "git branch -D <nome da branch>" apaga uma branch
+* ""
+----------------------------------------
 comando para o editor de texto
 
 vim (nome do arquivo) para criar um novo arquivo ou abrir um ja existente
@@ -37,4 +44,4 @@ vim (nome do arquivo) para criar um novo arquivo ou abrir um ja existente
 "esc" + ":wq" para salvar
 ----------------------------------------
 
-
+sdashvdasbdhashjdsahasdj
