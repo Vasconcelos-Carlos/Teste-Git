@@ -44,4 +44,4 @@ vim (nome do arquivo) para criar um novo arquivo ou abrir um ja existente
 "esc" + ":wq" para salvar
 ----------------------------------------
 
-
+apagar essa linha
