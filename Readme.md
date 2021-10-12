@@ -43,5 +43,3 @@ vim (nome do arquivo) para criar um novo arquivo ou abrir um ja existente
 "i" para iniciar a ediçao
 "esc" + ":wq" para salvar
 ----------------------------------------
-
-apagar essa linha
